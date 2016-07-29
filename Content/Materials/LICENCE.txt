@@ -1,0 +1,3 @@
+Unless specified otherwise for a specific file, none of the images in this folder are claimed under OpenCities' copyright.
+
+Files have been downloaded from various locations and are kept in the directory for the purposes of convenience of operating the source code of OpenCities.
